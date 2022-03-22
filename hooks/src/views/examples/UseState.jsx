@@ -18,7 +18,7 @@ const UseState = (props) => {
                 <button className="btn" onClick={() => setCount(currect => currect + 1000)}>+1000</button>
                 </div>
                 </div>
-
+ 
                 <SectionTitle title="Exercício #02" />
         </div>
     )
